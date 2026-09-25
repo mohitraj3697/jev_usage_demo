@@ -21,7 +21,7 @@ JEV is a language model designed for structured evaluation tasks. Instead of gen
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/jev_usage_demo.git
+git clone https://github.com/mohitraj3697/jev_usage_demo.git
 cd jev_usage_demo
 
 # Install dependencies (using uv — recommended)
